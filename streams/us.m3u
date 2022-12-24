@@ -311,8 +311,6 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV.us" status="timeout",Charlotte County CC-TV (Charlotte County FA) (720p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_002/playlist.m3u8
-#EXTINF:-1 tvg-id="CCXMediaNorthBrooklynParkMN.us" status="online",CCX Media North Brooklyn Park MN (1080p)
-http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us" status="blocked",Celebrity Scene TV (720p)
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="CerritosTV3.us" status="timeout",Cerritos TV3 (360p)
@@ -373,7 +371,7 @@ https://s3-us-west-2.amazonaws.com/lakewood.castus-vod/live/ch1/video.m3u8
 http://67.53.122.248/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="CityTVSanDiego.us" status="timeout",CityTV San Diego (360p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8
-#EXTINF:-1 tvg-id="CityTVSantaBarbara.us" status="error",CityTV Santa Barbara (1080p)
+#EXTINF:-1 tvg-id="CityTVSantaBarbara.us" status="timeout",CityTV Santa Barbara (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Citytv18/live
 #EXTINF:-1 tvg-id="CityTVWhittier.us" status="timeout",Whittier CityTV (Whittier CA) (720p)
 https://cdn-unified-hls.streamspot.com/ingest1/89cbf0c54c/playlist.m3u8?origin=1
@@ -420,7 +418,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="CNN.us" status="error",CNN USA (360p)
 http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNBrasil.br" status="timeout",CNN Brasil (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CNNBrasil.br" status="error",CNN Brasil (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 #EXTINF:-1 tvg-id="CNNChile.cl" status="timeout",CNN Chile (720p)
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -460,7 +458,7 @@ https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/inde
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="CourtTVMystery.us" status="blocked",Court TV Mystery (WTXL-TV4) (480p)
 https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CoxEnfieldPublicAccess.us" status="online",Cox Enfield Public Access Channel 15 (Einfield CT) (720p)
+#EXTINF:-1 tvg-id="CoxEnfieldPublicAccess.us" status="timeout",Cox Enfield Public Access Channel 15 (Einfield CT) (720p)
 http://184.177.41.241/live-10/live/live.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel15.us" status="timeout",CreaTV Community Channel 15 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
@@ -624,7 +622,7 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" status="timeout",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="FPTV.us" status="timeout",Fayetteville Public Television (FPTV) (Fayetteville AR) (1080p)
+#EXTINF:-1 tvg-id="FPTV.us" status="error",Fayetteville Public Television (FPTV) (Fayetteville AR) (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA/live
 #EXTINF:-1 tvg-id="FreeformEast.us" status="blocked",Freeform
 https://16live00.akamaized.net/FREEFORM/index.m3u8
@@ -648,7 +646,7 @@ https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
 #EXTINF:-1 tvg-id="GBNTV.us" status="timeout",Gospel Broadcasting Network (GBN) (1080p)
 https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="GCNAmerica.us" status="timeout",Global Christian Network America (GCN) (720p)
+#EXTINF:-1 tvg-id="GCNAmerica.us" status="error",Global Christian Network America (GCN) (720p)
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GCOtv.us" status="timeout",Golden Community Television (GCO.tv) (Golden CO) (1080p)
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
@@ -1086,8 +1084,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/i
 https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="MCAETTV.us" status="timeout",MCAET TV (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mcaettv
-#EXTINF:-1 tvg-id="MCN6.us" status="timeout",MCN6 (1080p) [Not 24/7]
-https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" status="timeout",MCN6 Arts Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" status="timeout",MCN6 Music Channel (1080p) [Not 24/7]
@@ -1120,9 +1116,9 @@ https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MihanTV.us" status="timeout",Mihan TV (360p)
 https://iptv.mihantv.com/mihantv/playlist1/index.m3u8
-#EXTINF:-1 tvg-id="MillenniumTV24.us" status="timeout",Millennium TV 24 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MillenniumTV24.us" status="error",Millennium TV 24 (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MillenniumTVUSA.us" status="timeout",Millennium TV USA (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MillenniumTVUSA.us" status="error",Millennium TV USA (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionTV.us" status="timeout",Mission TV (1080p) [Not 24/7]
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
@@ -1304,7 +1300,7 @@ https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 https://peopletv-oo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleTV.us" status="timeout",People TV (1080p)
 https://peopletv-samsungus-ingest.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="PeoriaChannel11.us" status="timeout",Peoria Channel 11 (Peoria AZ) (720p)
+#EXTINF:-1 tvg-id="PeoriaChannel11.us" status="error",Peoria Channel 11 (Peoria AZ) (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCr2anV7zsCAo1Rvjga7nYEA/live
 #EXTINF:-1 tvg-id="PHXTV.us" status="timeout",PHXTV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/chunklist.m3u8
@@ -1430,7 +1426,7 @@ https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamb/manifest.m3u8
 #EXTINF:-1 tvg-id="Smile.us" status="error",Smile (540p) [Not 24/7]
 https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
-#EXTINF:-1 tvg-id="SoundViewCommunityMedia.us" status="timeout",Sound View Community Media (480p)
+#EXTINF:-1 tvg-id="SoundViewCommunityMedia.us" status="error",Sound View Community Media (480p)
 https://soundviewcmt.secure.footprint.net/egress/bhandler/soundviewcmt/streama/manifest.m3u8
 #EXTINF:-1 tvg-id="SpaceChannel.us" status="timeout" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",Space Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
@@ -1441,7 +1437,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportskool.us" status="timeout",Sportskool TV (720p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 tvg-id="SpringsTV.us" status="timeout",SpringsTV (Colorado Springs CO) (720p)
+#EXTINF:-1 tvg-id="SpringsTV.us" status="error",SpringsTV (Colorado Springs CO) (720p)
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/coloradosprings/G1424_002/playlist.m3u8
 #EXTINF:-1 tvg-id="SPTV.us" status="timeout",St. Pete TV (SPTV) (St Petersburg FL) (360p)
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_002/playlist.m3u8
@@ -1899,7 +1895,7 @@ https://trn10.tulix.tv/WUPA-CW/index.m3u8
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WuTangCollection.us" status="timeout",Wu Tang Collection (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
-#EXTINF:-1 tvg-id="WVCYDT1.us" status="error",VCY America (360p)
+#EXTINF:-1 tvg-id="WVCYDT1.us" status="timeout",VCY America (360p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/30337923/events/9488449/
 #EXTINF:-1 tvg-id="WVECDT1.us" status="timeout",ABC 13 Norfolk VA (WVEC) (1080p)
 https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
@@ -1953,6 +1949,8 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 http://45.5.8.78:8000/play/a029
 #EXTINF:-1 tvg-id="" status="timeout",Cartoon Network Latin America
 http://209.91.213.10:8088/play/a00k
+#EXTINF:-1 tvg-id="" status="online",CCX Media North Brooklyn Park MN (1080p)
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Channel 11
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Delicioso [Geo-blocked]
@@ -1996,6 +1994,8 @@ https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" status="timeout",MCN6 (1080p) [Not 24/7]
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",MTV Hits Latinoamérica (576p)
 http://209.91.213.10:8088/play/a00z
 #EXTINF:-1 tvg-id="" status="timeout",MTV Latinoamérica (1080p)
