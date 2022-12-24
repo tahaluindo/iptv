@@ -25,7 +25,7 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/252.php
 #EXTINF:-1 tvg-id="BTNTV.kr" status="timeout",BTN TV (1080p)
 http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="BusanMBCTV.kr" status="timeout",MBC Busan (부산MBC) (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="BusanMBCTV.kr" status="error",MBC Busan (부산MBC) (360p) [Not 24/7]
 http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 #EXTINF:-1 tvg-id="CarrieTV.kr" status="timeout",Carrie TV (540p)
 http://mytv.dothome.co.kr/ch/catv/212.php
@@ -87,10 +87,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="FTV.kr" status="timeout",FTV (540p)
 http://mytv.dothome.co.kr/ch/catv/250.php
-#EXTINF:-1 tvg-id="GCN.kr" status="timeout",GCN24 Korean (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqGxkgVnPc7arUR7MdCi99g/live
 #EXTINF:-1 tvg-id="GCN.kr" status="timeout",GCN24 Korean (480p) [Not 24/7]
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN.kr" status="error",GCN24 Korean (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqGxkgVnPc7arUR7MdCi99g/live
 #EXTINF:-1 tvg-id="GolfPBA.kr" status="blocked",Golf & PBA (540p)
 http://mytv.dothome.co.kr/ch/catv/25.php
 #EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" status="timeout",Gongyoung Shopping (720p)
@@ -101,7 +101,7 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GugakTV.kr" status="timeout",GugakTV 국악방송 (1080p)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kr" status="error",Gugbang TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="GugbangTV.kr" status="timeout",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GwangjuMBCTV.kr" status="timeout",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
@@ -255,7 +255,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC38IlqMxZ_YtFg3eSGmmJnQ/live
 #EXTINF:-1 tvg-id="YTNScience.kr" status="error",YTN SCIENCE (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZdBJIbJz0P9xyFipgOj1fA/live
-#EXTINF:-1 tvg-id="" status="error",All The K-POP
+#EXTINF:-1 tvg-id="" status="timeout",All The K-POP
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ALLTHEKPOP/live
 #EXTINF:-1 tvg-id="" status="timeout",Arirang Radio (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8

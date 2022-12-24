@@ -30,7 +30,7 @@ https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" status="timeout",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
-#EXTINF:-1 tvg-id="BeratTV.tr" status="timeout",Berat TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeratTV.tr" status="error",Berat TV (720p) [Not 24/7]
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-id="BesiktasWebTV.tr" status="timeout",Beşiktaş Web TV (360p)
 https://s01.vpis.io/besiktas/besiktas.m3u8
@@ -273,12 +273,12 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" status="timeout",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" status="timeout",TRT World (720p) [Not 24/7]
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" status="timeout",TRT World (720p) [Not 24/7]
-https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" status="timeout",TRT World (1080p) [Not 24/7]
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" status="timeout",TRT World (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" status="timeout",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" status="timeout",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" status="timeout",TV 8 (1080p) [Not 24/7]

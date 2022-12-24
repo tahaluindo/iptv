@@ -99,10 +99,10 @@ https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-id="DistritoTV.es" status="timeout",Distrito TV (1080p) [Not 24/7]
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:-1 tvg-id="ElFuturoentumano.es" status="timeout",El Futuro en tu mano (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live
 #EXTINF:-1 tvg-id="ElFuturoentumano.es" status="timeout",El Futuro en tu mano (720p)
 https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
-#EXTINF:-1 tvg-id="ElFuturoentumano.es" status="error",El Futuro en tu mano (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live
 #EXTINF:-1 tvg-id="ElToroTV.es" status="timeout",El Toro TV (720p)
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" status="blocked",Esport3 [Geo-blocked]
@@ -139,7 +139,7 @@ https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="HuescaTV.es" status="timeout",Huesca TV (240p) [Not 24/7]
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:-1 tvg-id="IB3.es" status="error",IB3 Global (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="IB3.es" status="timeout",IB3 Global (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
 #EXTINF:-1 tvg-id="IbizaGlobalTV.es" status="timeout",Ibiza Global TV (720p) [Not 24/7]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
@@ -255,7 +255,7 @@ https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 tvg-id="Tac12.es" status="timeout",Tac12 (720p)
 https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
-#EXTINF:-1 tvg-id="Taroteame.es" status="error",Tarotéame (576p)
+#EXTINF:-1 tvg-id="Taroteame.es" status="timeout",Tarotéame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-id="TEF.es" status="timeout",TEF (540p)
 https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
