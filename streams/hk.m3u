@@ -9,7 +9,7 @@ http://al-pull2.hkatv.vip/live/CTV.m3u8
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="HKSTV.hk" status="blocked",HKSTV (香港衛視) (720p) [Not 24/7]
 https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
-#EXTINF:-1 tvg-id="HKSTV.hk" status="timeout",香港衛視 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="HKSTV.hk" status="error",香港衛視 (576p) [Not 24/7]
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="HOYTV.hk" status="blocked",HOY TV (1080p) [Geo-blocked]
 https://d3lbtdzocyu3ke.cloudfront.net/out/v1/214e9e20c822494ea5bc1f1428833428/index.m3u8
@@ -17,11 +17,11 @@ https://d3lbtdzocyu3ke.cloudfront.net/out/v1/214e9e20c822494ea5bc1f1428833428/in
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="HOYTV.hk" status="timeout",HOY TV (720p)
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="HOYTV.hk" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",HOY TV (1080p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 tvg-id="HOYTV.hk" status="timeout",HOY TV (480p)
 http://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8
+#EXTINF:-1 tvg-id="HOYTV.hk" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",HOY TV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" status="online",Phoenix Chinese Channel (鳳凰衛視中文) (576p)
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" status="timeout",Phoenix Chinese Channel (鳳凰衛視中文) (1080p)
@@ -50,24 +50,24 @@ https://cdn.hklive.tv/xxxx/32/index.m3u8
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" status="timeout",TVB News Channel (720p)
 https://tvp22.sky4k.top/index1.php
-#EXTINF:-1 tvg-id="TVBNewsChannel.hk" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB News Channel (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="TVBNewsChannel.hk" status="error",TVB News Channel (720p)
 http://9.zhxinda.xyz/newss.php?id=1
-#EXTINF:-1 tvg-id="ViuTV.hk" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVBNewsChannel.hk" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB News Channel (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTV (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" status="timeout",ViuTVsix
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 tvg-id="ViuTVsix.hk" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTVsix (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ViuTVsix.hk" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTVsix (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-id="" status="blocked",HOY Infotainment Channel (1080p)
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",i-Cable News Channel (有線新聞台) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",i-Cable News Channel (有線新聞台) (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",Kix (Indonesian Subtitle) (576p)
@@ -78,22 +78,22 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",TVB Finance and Sport Channel (720p)
 https://tvp22.sky4k.top/index2.php
-#EXTINF:-1 tvg-id="" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Finance and Sport Channel (720p)
+#EXTINF:-1 tvg-id="" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Finance and Sport Channel (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="" status="error",TVB Finance and Sport Channel (Cantonese Subtitles) (720p)
 http://9.zhxinda.xyz/newss.php?id=2
 #EXTINF:-1 tvg-id="" status="timeout",TVB J2
 https://j3.lhlh.app/mv.m3u8
-#EXTINF:-1 tvg-id="" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB J2 (720p)
+#EXTINF:-1 tvg-id="" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB J2 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Jade (翡翠台) (720p)
+#EXTINF:-1 tvg-id="" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Jade (翡翠台) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",TVB Jade (翡翠台) (Cantonese Subtitles) (720p)
 http://23.237.10.66:16106
-#EXTINF:-1 tvg-id="" status="timeout" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Pearl (珍珠台) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" status="error" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",TVB Pearl (珍珠台) (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",TVB明珠台 (PEARL)

@@ -20,7 +20,7 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaSports.ar" status="error",América Sports (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
-#EXTINF:-1 tvg-id="AmericaTucuman.ar" status="error",América Tucumán (720p)
+#EXTINF:-1 tvg-id="AmericaTucuman.ar" status="timeout",América Tucumán (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg/live
 #EXTINF:-1 tvg-id="AmericaTV.ar" status="timeout" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
@@ -93,7 +93,7 @@ https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Neuquen.ar" status="timeout",Canal 10 Neuquén (480p)
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Nortevision.ar" status="error",Canal10 Nortevision
+#EXTINF:-1 tvg-id="Canal10Nortevision.ar" status="timeout",Canal10 Nortevision
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-id="Canal10Salta.ar" status="error",Canal 10 Televisión Salteña (720p)
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
@@ -267,7 +267,7 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar" status="timeout",Sicardi TV (720p)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="SomosLaPampa.ar" status="error",Somos La Pampa (1080p)
+#EXTINF:-1 tvg-id="SomosLaPampa.ar" status="timeout",Somos La Pampa (1080p)
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="TECTV.ar" status="timeout",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
@@ -299,19 +299,19 @@ https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVTelevision.ar" status="timeout",TIV Televisión (480p)
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
-#EXTINF:-1 tvg-id="TN.ar" status="error",TN Todo Noticias (1080p)
+#EXTINF:-1 tvg-id="TN.ar" status="timeout",TN Todo Noticias (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1 tvg-id="TVManaArgentina.ar" status="timeout",TV Maná Argentina (576p) [Not 24/7]
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" status="error",TV Pública (TVP) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPublica.ar" status="timeout",TV Pública (TVP) (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
 #EXTINF:-1 tvg-id="TVSolidaria.ar" status="timeout",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="TVUniversidad.ar" status="error",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="UNAMTransmedia.ar" status="error",UNAM Transmedia
+#EXTINF:-1 tvg-id="UNAMTransmedia.ar" status="online",UNAM Transmedia
 http://192.100.186.53:8090/hls/live.stream.m3u8
-#EXTINF:-1 tvg-id="UnifeTV.ar" status="timeout",Unife TV (720p)
+#EXTINF:-1 tvg-id="UnifeTV.ar" status="error",Unife TV (720p)
 http://free.fullspeed.tv/iptv-query?provider=universe&streaming-ip=https://playback.dacast.com/content/access?contentId=928203024202811fc3bc6cbe26866ebf-live-adeed196-c997-05a9-430f-188d97dfe346
 #EXTINF:-1 tvg-id="Uniteve.ar" status="timeout",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
@@ -327,7 +327,7 @@ https://srs.unsj.edu.ar/live/xama.flv
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",5TV (Corrientes) (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",A24 (1080p)
+#EXTINF:-1 tvg-id="" status="timeout",A24 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
 #EXTINF:-1 tvg-id="" status="timeout",Cadena 103
 https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
@@ -335,7 +335,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 #EXTINF:-1 tvg-id="" status="error",CN3 Pinamar (720p) [Not 24/7]
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",La Nación+ (720p)
+#EXTINF:-1 tvg-id="" status="timeout",La Nación+ (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 #EXTINF:-1 tvg-id="" status="timeout",Señal Urbana
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
