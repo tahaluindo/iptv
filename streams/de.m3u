@@ -355,7 +355,7 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.de" status="timeout",Sophia TV (720p)
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" status="blocked",Sport 1 [Geo-blocked]
+#EXTINF:-1 tvg-id="Sport1.de" status="error",Sport 1 [Geo-blocked]
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 #EXTINF:-1 tvg-id="Studio47.de" status="timeout",Studio 47
 https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8

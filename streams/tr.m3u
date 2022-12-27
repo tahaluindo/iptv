@@ -140,7 +140,7 @@ https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
 https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal26.tr" status="timeout",Kanal 26 (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal32.tr" status="timeout",Kanal 32 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kanal32.tr" status="error",Kanal 32 (480p) [Not 24/7]
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal33.tr" status="timeout",Kanal 33 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
@@ -174,7 +174,7 @@ https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
 https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" status="timeout",Lalegül TV (720p) [Not 24/7]
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-id="LalegulTV.tr" status="timeout",Lalegül TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LalegulTV.tr" status="error",Lalegül TV (720p) [Not 24/7]
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr" status="timeout",Life TV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
@@ -188,7 +188,7 @@ https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MercanTV.tr" status="timeout",Mercan TV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="MiskFM.tr" status="timeout",Misk FM (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MiskFM.tr" status="error",Misk FM (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCrvsAwtrxZ0q31yU9JEBdWA/live
 #EXTINF:-1 tvg-id="NaturalTV.tr" status="timeout",Natural TV (720p) [Not 24/7]
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
@@ -299,7 +299,7 @@ https://waw2.artiyerelmedya.net/tv41/bant1/chunks.m3u8
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" status="timeout",TV 52 (720p) [Not 24/7]
 https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" status="timeout",tv100 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV100.tr" status="error",tv100 (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8jEXHzMTR7s
 #EXTINF:-1 tvg-id="TVDen.tr" status="timeout",TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
