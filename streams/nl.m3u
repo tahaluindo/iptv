@@ -19,7 +19,7 @@ http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LansingerlandTV.nl" status="timeout",Lansingerland TV (1080p)
 https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
-#EXTINF:-1 tvg-id="LOETV.nl" status="error",LOE TV (720p)
+#EXTINF:-1 tvg-id="LOETV.nl" status="timeout",LOE TV (720p)
 https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="LONTV.nl" status="timeout",LON TV (Lokale Omroep Nuenen) (720p)
 https://streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8
@@ -99,9 +99,9 @@ https://live.salto.nl/hls/at5.m3u8
 https://salto-streams.nl/hls/sotv1.m3u8
 #EXTINF:-1 tvg-id="Samen1TV.nl" status="timeout",Samen1 TV (720p)
 https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
-#EXTINF:-1 tvg-id="StreekTV.nl" status="timeout",Streek TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="StreekTV.nl" status="error",Streek TV (720p) [Not 24/7]
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-#EXTINF:-1 tvg-id="StreekTV.nl" status="timeout",Streek TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="StreekTV.nl" status="error",Streek TV (720p) [Not 24/7]
 https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-id="TommyTeleshopping.nl" status="timeout",Tommy Teleshopping (480p)
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
