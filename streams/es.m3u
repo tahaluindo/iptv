@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="7NN.es" status="timeout",7 Noticias (1080p)
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="7NN.es" status="error",7 Noticias (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/7nntv
+#EXTINF:-1 tvg-id="7NN.es" status="timeout",7 Noticias (1080p)
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="9laLomaTV.es" status="blocked",9 la Loma TV [Geo-blocked]
 https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="25TV.es" status="timeout",25 TV (480p) [Not 24/7]
@@ -17,7 +17,7 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" status="timeout",Activa TV (720p)
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-id="AlacantiTV.es" status="error",Alacantí TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlacantiTV.es" status="timeout",Alacantí TV (576p) [Not 24/7]
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-id="AlcarriaTV.es" status="timeout",Alcarria TV (576p) [Not 24/7]
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
@@ -57,7 +57,7 @@ https://live.yowi.tv/58b79e6a71f5459d5fc9/master.m3u8
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 tvg-id="Canal2000.es" status="timeout",Canal 2000 La Solana (720p)
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-#EXTINF:-1 tvg-id="CanalCosta.es" status="timeout",Canalcosta TV
+#EXTINF:-1 tvg-id="CanalCosta.es" status="error",Canalcosta TV
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiocesano.es" status="timeout",Canal Diocesano (576p) [Not 24/7]
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
@@ -135,7 +135,7 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
 #EXTINF:-1 tvg-id="HQMPop.es" status="timeout",HQM Pop (1080p)
 https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1 tvg-id="HuelvaTV.es" status="timeout",Huelva TV (720p)
+#EXTINF:-1 tvg-id="HuelvaTV.es" status="error",Huelva TV (720p)
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="HuescaTV.es" status="timeout",Huesca TV (240p) [Not 24/7]
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
@@ -203,7 +203,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="LevanteTV.es" status="timeout",Levante TV (320p) [Not 24/7]
 https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:-1 tvg-id="LleidaTelevisio.es" status="blocked",Lleida Televisio (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LleidaTelevisio.es" status="timeout",Lleida Televisio (720p) [Not 24/7]
 https://cdn01.yowi.tv/lleida/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTV.es" status="timeout",Logos TV (1080p) [Not 24/7]
 http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
@@ -253,7 +253,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.es" status="timeout",Sophia TV (720p)
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1 tvg-id="Tac12.es" status="timeout",Tac12 (720p)
+#EXTINF:-1 tvg-id="Tac12.es" status="blocked",Tac12 (720p)
 https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8
 #EXTINF:-1 tvg-id="Taroteame.es" status="timeout",Tarotéame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
@@ -335,7 +335,7 @@ http://78.41.83.88:8880/hls/unesd.m3u8
 http://ventdelnord.tv:8080/hls/directe.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es" status="timeout",Visión 6 TV (720p) [Not 24/7]
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
-#EXTINF:-1 tvg-id="Vivamovil.es" status="timeout",Vivamóvil (720p)
+#EXTINF:-1 tvg-id="Vivamovil.es" status="error",Vivamóvil (720p)
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="VivaTV.es" status="timeout",Viva TV
 https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
