@@ -13,7 +13,7 @@ https://stream.oursnetworktv.com/latin/radioTGBAgtm/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8476/8476/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresionTV.gt" status="timeout",Expresión TV
 https://cdn.streamhispanatv.net:3508/live/extvlive.m3u8
-#EXTINF:-1 tvg-id="FeViviente.gt" status="error",Fe Viviente
+#EXTINF:-1 tvg-id="FeViviente.gt" status="timeout",Fe Viviente
 https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 #EXTINF:-1 tvg-id="FranchsTV.gt" status="timeout",Franchs TV
 https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
@@ -33,8 +33,6 @@ https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 https://stream.oursnetworktv.com/latin/eC3pEmUsYKmcaLeJ/playlist.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt" status="timeout",Rhema TV
 https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
-#EXTINF:-1 tvg-id="Telearte.gt" status="error",Telearte
-https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt" status="timeout",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="Telemax.gt" status="timeout",Telemax
@@ -53,7 +51,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
 #EXTINF:-1 tvg-id="VeaCanal.gt" status="timeout",Vea Canal [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/veacanalgt
-#EXTINF:-1 tvg-id="VisionTV.gt" status="timeout",Visión TV (480p)
+#EXTINF:-1 tvg-id="VisionTV.gt" status="error",Visión TV (480p)
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Presencia TV
 https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8

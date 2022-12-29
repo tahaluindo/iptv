@@ -374,7 +374,7 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 https://sc.id-tv.kz/RenTV.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" status="timeout",Родное кино (576p) [Not 24/7]
 https://sc.id-tv.kz/Rodnoe_kino.m3u8
-#EXTINF:-1 tvg-id="Rodnoykanal.ru" status="timeout",Родной канал (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Rodnoykanal.ru" status="error",Родной канал (720p) [Not 24/7]
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 tvg-id="RostovPapa.ru" status="timeout",Ростов-папа (1080p)
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
@@ -464,7 +464,7 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 http://45.67.57.9:8080/new/new/playlist.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru" status="online",Сарафан (576p) [Not 24/7]
 http://195.26.83.96:7024/play/82
-#EXTINF:-1 tvg-id="Saratov24.ru" status="timeout",Саратов 24 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Saratov24.ru" status="error",Саратов 24 (1080p) [Not 24/7]
 https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="SelengaTV.ru" status="online",Селенга ТВ (576p)
 http://90.188.37.86/live/playlist.m3u8
@@ -474,7 +474,7 @@ https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
 https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-id="Sever.ru" status="timeout",Север (Нарьян-Мар) (1080p)
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" status="blocked",Шансон ТВ (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ShansonTV.ru" status="timeout",Шансон ТВ (576p) [Geo-blocked]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" status="timeout",Шансон ТВ (512p) [Geo-blocked]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
@@ -570,7 +570,7 @@ http://live-1.otcnet.ru/tvextra720b/index.m3u8
 http://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMChannel.ru" status="blocked",TVMChannel (720p) [Geo-blocked]
 https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8
-#EXTINF:-1 tvg-id="TVMChannel.ru" status="timeout",TVMChannel (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TVMChannel.ru" status="error",TVMChannel (576p) [Geo-blocked]
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTURTV.ru" status="blocked",ТВТУР (720p) [Geo-blocked]
 https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
