@@ -109,8 +109,6 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="KIKA.de" status="blocked",KiKA [Geo-blocked]
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id="KTV.de" status="timeout",K-TV (Fernsehen) (720p)
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" status="online",KulturMD (1080p)
 http://62.113.210.250/medienasa-live/mp4:kulturmd_high/playlist.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" status="timeout",KulturMD (1080p)

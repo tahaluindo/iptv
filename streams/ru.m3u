@@ -266,7 +266,7 @@ https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" status="timeout" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Муз-ТВ (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s28/index.m3u8
-#EXTINF:-1 tvg-id="NanoTV.ru" status="timeout",Нано (540p)
+#EXTINF:-1 tvg-id="NanoTV.ru" status="error",Нано (540p)
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-id="NashaSibir.ru" status="timeout",Наша Сибирь / Кемерово (1080p) [Not 24/7]
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
@@ -476,7 +476,7 @@ https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" status="blocked",Шансон ТВ (576p) [Geo-blocked]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" status="timeout",Шансон ТВ (512p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ShansonTV.ru" status="blocked",Шансон ТВ (512p) [Geo-blocked]
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" status="timeout",Шансон ТВ (576p) [Geo-blocked]
 http://uiptv.do.am/1ufc/602079679/playlist.m3u8
@@ -627,7 +627,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 https://sc.id-tv.kz/bollywood_hd.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",HD life (1080p) [Not 24/7]
 http://37.193.6.155:34040/udp/239.1.9.2:1234
-#EXTINF:-1 tvg-id="" status="timeout",Luxury (1080p)
+#EXTINF:-1 tvg-id="" status="error",Luxury (1080p)
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 tvg-id="" status="blocked",RT News (1080p)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
